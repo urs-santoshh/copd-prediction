@@ -1,0 +1,40 @@
+{
+    "accessLevel": "restricted public",
+    "bureauCode": [
+        "020:00"
+    ],
+    "contactPoint": {
+        "fn": "Kristen Rappazzo",
+        "hasEmail": "mailto:rappazzo.kristen@epa.gov"
+    },
+    "description": "Information on hospitalizations of COPD patients from electronic health records linked to air pollution concentrations for the study period. This dataset is not publicly accessible because: EPA cannot release personally identifiable information regarding living individuals, according to the Privacy Act and the Freedom of Information Act (FOIA). This dataset contains information about human research subjects. Because there is potential to identify individual participants and disclose personal information, either alone or in combination with other datasets, individual level data are not appropriate to post for public access. Restricted access may be granted to authorized persons by contacting the party listed. It can be accessed through the following means: Can be requested through NCTracts https://tracs.unc.edu/index.php/services/comparative-effectiveness-research/data-linkage. Format: Data used in this analysis include electronic health records from the UNC healthcare system. \n\nThis dataset is associated with the following publication:\nCowan, K., L. Wyatt, T. Luben, J. Sacks, C. Ward-Caviness, and K. Rappazzo. Effect measure modification of the association between short-term exposures to PM2.5 and hospitalizations by longs-term PM2.5 exposure among a cohort of people with Chronic Obstructive Pulmonary Disease (COPD) in North Carolina, 2002\u20132015.   ENVIRONMENTAL HEALTH. Academic Press Incorporated, Orlando, FL, USA, 22: 49, (2023).",
+    "distribution": [],
+    "identifier": "https://doi.org/10.23719/1530582",
+    "keyword": [
+        "hospitalization",
+        "COPD",
+        "electronic health records",
+        "particulate matter (PM)",
+        "long and short term interaction"
+    ],
+    "license": "https://pasteur.epa.gov/license/sciencehub-license-non-epa-generated.html",
+    "modified": "2024-01-19",
+    "programCode": [
+        "020:000"
+    ],
+    "publisher": {
+        "name": "U.S. EPA Office of Research and Development (ORD)",
+        "subOrganizationOf": {
+            "name": "U.S. Environmental Protection Agency",
+            "subOrganizationOf": {
+                "name": "U.S. Government"
+            }
+        }
+    },
+    "references": [
+        "https://doi.org/10.1186/s12940-023-00999-4",
+        "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10308617"
+    ],
+    "rights": "EPA Category: Personally Identifiable Information (PII), NARA Category: Privacy",
+    "title": "CARES_COPD_casecrossover"
+}
