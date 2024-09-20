@@ -5,7 +5,7 @@ import joblib
 def main():
     # Load the trained model
     try:
-        model = joblib.load("./models/best_random_forest_model.pkl")
+        model = joblib.load("./models/best_random_forest_model.pkl", mmap_mode="r")
     except Exception as e:
         st.error(f"Error loading model: {e}")
         return
