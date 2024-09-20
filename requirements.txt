@@ -1,6 +1,5 @@
-﻿joblib==1.2.0  
-numpy==1.26.4 
-pandas==2.1.4 
+﻿joblib 
+numpy
+pandas
 scikit-learn==1.5.2
-setuptools==58.0.0
-streamlit==1.37.1 
+streamlit
