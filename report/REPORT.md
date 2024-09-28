@@ -84,3 +84,8 @@ The analysis of the COPD dataset reveals that smoking status is the most signifi
 The insights gained from this analysis should guide future public health policies in Nepal, particularly in reducing smoking and improving environmental conditions.
 
 ---
+
+## 5. Streamlit Deployment
+The COPD prediction application has been successfully deployed using Streamlit. You can access the app at the following link: [Streamlit App](https://copd-prediction-zuy3yuivcbggeh4qnecftx.streamlit.app/).
+
+---
